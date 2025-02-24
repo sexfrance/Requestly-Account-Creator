@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Requestly Account Creator</h2>
   <p align="center">
-    An automated tool for creating Requestly accounts with email verification support, proxy handling, and multi-threading capabilities.
+    An automated tool for creating Requestly accounts to get a free 1m premium plan with email verification support, proxy handling, and multi-threading capabilities.
     <br />
     <br />
     <a href="https://discord.cyberious.xyz">💬 Discord</a>
