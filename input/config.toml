@@ -1,0 +1,7 @@
+[ data ]
+Cybertemp_Api_Key = "" # Optional https://cybertemp.xyz/pricing
+
+[ dev ]
+Proxyless = true
+Debug = false
+Threads = 1
